@@ -7,6 +7,7 @@ Bu projede, basit bir Express.js sunucusu kullanarak bir API oluşturulmuştur. 
 
 ### 📚 Kullanılan Kütüphaneler
 
+- [Discord.js](https://npmjs.org/package/discord.js): Discord bot uygulaması oluşturmak için kullanılan bir kütüphane.
 - [Express.js](https://expressjs.com/): Web uygulamaları ve API'ler oluşturmak için kullanılan minimalist web çerçevesi.
 - [Axios](https://github.com/axios/axios): HTTP istekleri yapmak ve yanıtları işlemek için kullanılan bir kütüphane.
 - [Chalk](https://github.com/chalk/chalk): Konsol loglarını renklendirmek için kullanılan bir kütüphane.
