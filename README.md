@@ -5,7 +5,7 @@ Bu projede, basit bir Express.js sunucusu kullanarak bir API oluşturulmuştur. 
 - Hello world api: https://example.com/api/message
 - Post api: https://example.com/api/post
 
-### 📚 Kullanılan Kütüphaneler
+## 📚 Kullanılan Kütüphaneler
 
 - [Express.js](https://expressjs.com/): Web uygulamaları ve API'ler oluşturmak için kullanılan minimalist web çerçevesi.
 - [Axios](https://github.com/axios/axios): HTTP istekleri yapmak ve yanıtları işlemek için kullanılan bir kütüphane.
