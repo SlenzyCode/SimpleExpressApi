@@ -13,8 +13,7 @@ Bu projede, basit bir Express.js sunucusu kullanarak bir API oluşturulmuştur. 
 - [Cors](https://github.com/expressjs/cors): Express uygulamaları için CORS (Cross-Origin Resource Sharing) desteği sağlayan bir kütüphane.
 
 ## ▶️ Projeyi Ayağa Kaldırma
-Bu proje'yi ayağı kaldırmak için öncelikle terminal'e `npm i` yazıp npm bağımlılıklarını yüklüyoruz, ardından terminal'e `npm run start` yazarak proje'yi ayağa kaldırıyoruz. Apilerin çalıştığını denemek için 2. terminal'i açıp terminal'e `npm run test` yazmanız yeterlidir.
-
+Bu proje'yi ayağı kaldırmak için öncelikle `config.json` dosyasını dolduruyoruz ardından terminal'e `npm i` yazarak projenin npm bağımlılıklarını yüklüyoruz, ardından terminal'e `npm run start` yazarak proje'yi ayağa kaldırıyoruz. Apilerin çalıştığını denemek için 2. terminal'i açıp terminal'e `npm run test` yazıyoruz.
 
 ## 🤝 Katkıda Bulunma 
 Bu proje'ye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz: 
