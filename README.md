@@ -2,8 +2,8 @@
 Bu projede, basit bir Express.js sunucusu kullanarak bir API oluşturulmuştur. API, bir GET isteği ile "Merhaba, dünya!" mesajını döndürürken, bir POST isteği ile gelen verileri işleyerek geri döndürmektedir. Ayrıca, Axios kullanarak yapılan bir POST isteği ile API'ye veri gönderilip, alınan cevap konsola yazdırılmaktadır.
 
 ## 🔧 Kullanım
-Hello world api: https://example.com/api/message
-Post api: https://example.com/api/post
+- Hello world api: https://example.com/api/message
+- Post api: https://example.com/api/post
 
 ### 📚 Kullanılan Kütüphaneler
 
